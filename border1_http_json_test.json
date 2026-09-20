@@ -1,1 +1,0 @@
-{"format":"SCPRP_MAP_TEST_V1","message":"Border1 importer HTTP+JSON test works.","objects":[{"class":"Part","name":"BORDER1_TEST_PART","properties":{"Anchored":true,"CanCollide":true,"Size":[8,2,8],"CFrame":["f",0,10,0,1,0,0,0,1,0,0,0,1]}}]}
